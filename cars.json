@@ -1,0 +1,52 @@
+{
+  "makes": [
+    {
+      "name": "Alfa Romeo",
+      "niceName": "alfa-romeo",
+      "models": [
+        {
+          "id": "Alfa_Romeo_4C",
+          "name": "4C",
+          "niceName": "4c",
+          "years": [
+            {
+              "year": 2015
+            },
+            {
+              "year": 2016
+            },
+            {
+              "year": 2017
+            },
+            {
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "id": "Alfa_Romeo_Giulia",
+          "name": "Giulia",
+          "niceName": "giulia",
+          "years": [
+            {
+              "year": 2017
+            },
+            {
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "id": "Alfa_Romeo_Stelvio",
+          "name": "Stelvio",
+          "niceName": "stelvio",
+          "years": [
+            {
+              "year": 2018
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
