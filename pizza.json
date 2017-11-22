@@ -62,5 +62,31 @@
         "price": 1450
       }
     ]
+  },
+  {
+    "toppings": [
+      {
+        "pepperoni": 60,
+        "sausage": 60,
+        "meatball": 75
+      }
+    ]
+  },
+  {
+    "salad": [
+      {
+        "caesar": 600,
+        "garden": 700,
+        "greek": 775
+      },
+      {
+        "toppings": [
+          {
+            "grilled chicken": 400,
+            "fried chicken": 475
+          }
+        ]
+      }
+    ]
   }
 ]
