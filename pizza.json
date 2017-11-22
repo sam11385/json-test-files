@@ -1,23 +1,66 @@
-{
-  "pizza": ["personal pan", "small", "medium", "large", "extra large"],
-  "meat-topping": [
-    "sausage",
-    "pepperoni",
-    "steak",
-    "ham",
-    "ground beef",
-    "meat ball"
-  ],
-  "veg-topping": [
-    "bell peppers",
-    "jalepeno peppers",
-    "tomato",
-    "onion",
-    "pickle",
-    "green olives",
-    "black olives"
-  ],
-  "crust": ["butter", "garlic", "butter garlic", "cheese stuffed"],
-  "side": ["garden salad", "caesar salad", "breadsticks", "cheesesticks"],
-  "sandwich": ["italian", "meatball", "veggie"]
-}
+[
+  {
+    "medium": [
+      {
+        "name": "cheese",
+        "price": 1000
+      },
+      {
+        "name": "pepperoni",
+        "price": 1050
+      },
+      {
+        "name": "sausage",
+        "price": 1050
+      },
+      {
+        "name": "meatball",
+        "price": 1065
+      },
+      {
+        "name": "meatlovers",
+        "price": 1350
+      },
+      {
+        "name": "supreme",
+        "price": 1400
+      },
+      {
+        "name": "veggie",
+        "price": 1250
+      }
+    ]
+  },
+  {
+    "large": [
+      {
+        "name": "cheese",
+        "price": 1200
+      },
+      {
+        "name": "pepperoni",
+        "price": 1250
+      },
+      {
+        "name": "sausage",
+        "price": 1250
+      },
+      {
+        "name": "meatball",
+        "price": 1265
+      },
+      {
+        "name": "meatlovers",
+        "price": 1550
+      },
+      {
+        "name": "supreme",
+        "price": 1600
+      },
+      {
+        "name": "veggie",
+        "price": 1450
+      }
+    ]
+  }
+]
